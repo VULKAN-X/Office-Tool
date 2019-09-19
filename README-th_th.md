@@ -1,6 +1,6 @@
-﻿# โปรแกรม Office Tool Plus
+# โปรแกรม Office Tool Plus
 
-[English](/README.md) | [简体中文](/README-zh_cn.md) | [繁體中文](/README-zh_tw.md) | [한국어](/README-ko_kr.md) | [Italiano](/README-it_it.md) | ไทย/Thai
+English | [简体中文](/README-zh_cn.md) | [繁體中文](/README-zh_tw.md) | [한국어](/README-ko_kr.md) | [Italiano](/README-it_it.md) | [ไทย/Thai](/README-th_th.md)
 
 Office Tool Plus คือโปรแกรมสำหรับจัดการ การดาวน์โหลด, การติดตั้งชุดโปรแกรม Office.
 
@@ -42,12 +42,12 @@ The activate function was based on Microsoft's ospp.vbs (Office Software Protect
 
 - โปตุกีส (บราซิล) / [Hélio de Souza](https://sway.office.com/RVue6qySNJ2DzYrs?ref=Link)
 - โปลิส (โปแลนด์) / JakubDriver+
-- เกาหลี (Korea) / [Jay Jang](https://github.com/yaeyaya)
+- เกาหลี (เกาหลี) / [Jay Jang](https://github.com/yaeyaya)
 - ภาษาจีน (ใต้หวัน) / [Yi Chi](https://github.com/chiyi4488)
 
 ## ช่วยเราแปลภาษา
 
-We encourage everyone to help with localization. The following is how to do.
+เราสนับสนุนให้ทุกคนช่วยกันแปล โดบมีวิธีการดังต่อไปนี้.
 
 1. Fork แยกโครงการออกไป
 
